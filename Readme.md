@@ -24,5 +24,6 @@ to use const .
 # WHO CREATED JS
 ![](./1234.jpg)
 > Создатель JavaScript Брендан Эйх не так давно заново обратился к истокам созданного им языка и рассказал о том, как семена, посеянные им в 1995 
-# Three important topics
-![](.)
+# FUNCTIONS IN JS
+![](./images1.png)
+> Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements
